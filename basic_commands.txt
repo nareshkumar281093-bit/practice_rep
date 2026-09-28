@@ -1,0 +1,17 @@
+
+the mostly used commands in linux is 
+for creating directory  : mkdir directory name
+to check files and folders in directory : ls
+with details : ls -la
+check wheather were we are in which directory : pwd
+create file in the directory : touch filename
+edit or write in that file : vi filename  + i
+save file : esc+:+w+q+ enter 
+without save :esc+:+q+!
+if file exits we modify it : vi filename (also for directly new file creationn and write it)
+to print wrieen thing in coding : echo "word"
+
+
+
+
+
